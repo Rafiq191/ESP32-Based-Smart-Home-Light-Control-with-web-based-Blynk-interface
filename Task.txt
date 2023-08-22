@@ -1,0 +1,12 @@
+Home Automation Project using Esp32
+
+Topic: Smart Home Light Control
+
+Instructions:
+Utilize theEsp32 to create a smart home light control system. Implement a web-based interface that allows users to control the on/off state and brightness of a virtual LED. Users should be able to access and control the LED from a computer or smartphone.
+
+Simulation Example:
+Esp32 to create the web-based interface and control the virtual LED. (Blynk)
+
+Expected Result:
+The simulated smart home light control system should have a user-friendly web interface that allows users to turn the virtual LED on/off and adjust its brightness.
